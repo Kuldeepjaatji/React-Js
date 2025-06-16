@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: none;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.div1{
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: fit-content;
+  height: 250px;
+}
+.pp{
+  font-size: 150px;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 9px black;
+}
+.div2{
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn{
+  background-color: aqua;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+}

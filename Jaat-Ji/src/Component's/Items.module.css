@@ -1,0 +1,25 @@
+.listgroupitem{
+    width: 300px;
+    height: 40px;
+    border:1px solid black;
+    list-style-type: none;
+}
+.btn{
+    font-size: 15px;
+    padding: 3px 7px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    margin: 5px;
+    background-color: green;
+    float: right;
+}
+.btn:hover{
+    background-color: rgba(1, 97, 1, 0.965);
+    color: aqua;
+}
+span{
+    border: 2px solid red;
+    
+}
